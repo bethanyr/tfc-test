@@ -1,3 +1,5 @@
+
+
 data "http" "delay" {
   url = "https://httpbin.org/delay/10"
 
